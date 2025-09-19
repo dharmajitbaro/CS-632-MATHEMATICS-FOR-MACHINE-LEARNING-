@@ -1,2 +1,2 @@
-# ML-problems
-Assignment of Mathematics for Machine Learning, NIT H
+# CS-632[MATHEMATICS FOR MACHINE LEARNING]
+
